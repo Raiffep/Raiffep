@@ -1,7 +1,7 @@
 ### Hello there! I'm Raiffe Pontes 👋
 
 - 🔭 I’m currently working on front-end/mobile with ReactJs and React Native
-- 🌱 I’m currently learning about Clean Architecture, TDD, SOLID and English
+- 🌱 I’m currently learning about Clean Architecture, TDD, SOLID.
 
 <div align="center">
   <a href="https://github.com/Raiffep">
