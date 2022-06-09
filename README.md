@@ -1,4 +1,4 @@
-### Hello there! I'm Raiffe Pontes 👋
+### Hi there! I'm Raiffe Pontes 👋
 
 - 🔭 I’m currently working on front-end/mobile with ReactJs and React Native
 - 🌱 I’m currently learning about Clean Architecture, TDD, SOLID.
