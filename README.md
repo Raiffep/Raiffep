@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raiffep&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-###  Technologies I work with or have knowledge of
+###  Technologies that I work with or have knowledge of
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Raiffe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
